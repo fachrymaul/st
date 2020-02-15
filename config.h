@@ -101,11 +101,10 @@ static const char *colorname[] = {
 	"#6c71c4",  /* 13: brmagenta*/
 	"#93a1a1",  /* 14: brcyan   */
 	"#fdf6e3",  /* 15: brwhite  */
-/* bg opacity */
-float alpha = 0.8;
-
 };
 
+/* bg opacity */
+float alpha = 0.8;
 
 /*
  * Default colors (colorname index)
