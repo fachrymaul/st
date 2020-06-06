@@ -1,5 +1,4 @@
 *.o
 st
 *.orig
-config.h
 tags
